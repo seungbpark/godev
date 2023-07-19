@@ -10,7 +10,4 @@ import (
 
 func main() {
 	fmt.Println("Servic Started")
-	//s := new(router.Service)
-	//s.SetRouter()
-	//s.Router.Run(":8081")
 }
