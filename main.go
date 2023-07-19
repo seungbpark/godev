@@ -10,4 +10,6 @@ import (
 
 func main() {
 	fmt.Println("Servic Started")
+
+	fmt.Println("test")
 }
